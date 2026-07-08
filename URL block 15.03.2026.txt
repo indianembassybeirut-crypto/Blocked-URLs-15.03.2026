@@ -937,3 +937,4 @@ stndrdbnk.cc
 g-captchafestung.sbs
 pantxt.top
 sharemax126.net
+apple.com
