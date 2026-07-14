@@ -938,6 +938,5 @@ g-captchafestung.sbs
 pantxt.top
 sharemax126.net
 apple.com
-youtube.com
 samsung.com
 motorola.com
