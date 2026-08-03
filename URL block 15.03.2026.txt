@@ -72,7 +72,7 @@ arch2.megadatahost1.lol
 media.maxdatahost1.cyou
 hxxp://www.e-kflower.com/_prozn/_skin_mbl/home/KApp.rar
 hxxp://www.e-kflower.com/_prozn/_skin_mbl/home/KAppl.rar
-ashraagrotech.com (Compromised Domain)
+ashraagrotech.com
 dwdada.xyz
 sharemaxme28.net
 tigmarket.casacam.net
@@ -375,7 +375,7 @@ hxxp://194.233.92.26:2222/
 hxxp://217.15.164.147:99/
 hxxp://217.15.164.147:8088/
 hxxp://217.15.164.147:2222/
-hxxp:/95.182.100.231:2222/
+hxxp://95.182.100.231:2222/
 hxxp://24.199.90.58:80/
 hxxp://24.199.90.58:80/payload.php
 hxxp://24.199.90.58:80/st.txt
@@ -536,7 +536,7 @@ os-update-server.com
 os-update-server.org
 os-update-server.live
 os-update-server.top
-dfsl.maharashtra.gov.in (compromised domain)
+dfsl.maharashtra.gov.in
 adserviceupdate.com
 hygienehistory.com
 l3e4ct2egnlfz4ymexwn66jlz55vrnnn72ub4u3xqdjcp7xel5hpbzqd.onion
@@ -757,7 +757,8 @@ email.nic.in.zohoverification.online
 drdo.gov.in.zohoverification.online
 nia.gov.in.zohoverification.online
 *.zohoverification.online
-api.github.com" and "raw.githubusercontent.com
+api.github.com
+raw.githubusercontent.com
 workplacegov.online
 certstorein.shop
 sifi.co.in
@@ -1782,7 +1783,7 @@ svc.wompworthy.com
 179.43.177.220:8080/a.exe
 www.icloud-cdn.net
 www.yahoo-cdn.it.com
-.githooks/pre-commit
+githooks/pre-commit
 icloud-cdn.net
 yahoo-cdn.it.com
 v2-api.mooo.com
