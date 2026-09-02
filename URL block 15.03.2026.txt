@@ -2340,5 +2340,3 @@ deadlock.liveblog365.com
 dlock.liveblog365.com
 deadlockblog.great-site.net
 deadlockblog.medianewsonline.com
-chatgpt.com
-youtube.com
